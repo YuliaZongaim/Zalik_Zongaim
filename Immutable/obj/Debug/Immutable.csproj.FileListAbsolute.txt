@@ -1,0 +1,6 @@
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\bin\Debug\Immutable.exe.config
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\obj\Debug\Immutable.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\bin\Debug\Immutable.exe
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\bin\Debug\Immutable.pdb
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\obj\Debug\Immutable.exe
+C:\Users\Jackson\Documents\Visual Studio 2012\Projects\Immutable\Immutable\obj\Debug\Immutable.pdb
